@@ -9,6 +9,6 @@ public class Main {
             bonus = 0;
         }
         int finishBalance = start + bonus;
-        System.out.println("Итоговая сумма:" + finishBalance + " рублей");
+        System.out.println("Итоговая сумма: " + finishBalance + " рублей");
     }
 }
